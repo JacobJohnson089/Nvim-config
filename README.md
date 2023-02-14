@@ -39,7 +39,7 @@ nmap <F8>:TagbarToggle<CR>
 # Installation
 Linux
 ```
-sudo apt get install neovim
+sudo apt install neovim
 ```
 Arch Linux
 ```
