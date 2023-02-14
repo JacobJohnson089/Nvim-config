@@ -46,9 +46,8 @@ Arch Linux
 su
 pacman -S neovim
 ```
-go in the ```home/usr``` Directory 
+go in the ```home/usr```  id there is no .config dir just create one
 ```
-mkdir .config
 cd .config
 mkdir nvim
 cd nvim
