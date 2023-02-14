@@ -34,7 +34,7 @@ nmap <F8>:TagbarToggle<CR>
 
 # Requirements
 -Plug
-[Installing Plug](https://github.com/junegunn/vim-plug)
+[Installing Plug](https://github.com/junegunn/vim-plug) install the vim version
 
 # Installation
 Linux
