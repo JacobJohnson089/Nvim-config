@@ -54,4 +54,7 @@ mkdir nvim
 cd nvim
 nvim init.vim
 ```
-init.vim is the config file
+# Installing the Plugins
+Paste into init.vim (Ctrl-Shift-V)
+execute ```:PlugInstall``` into the vim command to install all the plugins 
+execute ```:wq``` to quit save
